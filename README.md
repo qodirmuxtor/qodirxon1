@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Qodirxon Muxtorov
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Python
